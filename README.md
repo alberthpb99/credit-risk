@@ -35,7 +35,7 @@ La aplicación en Streamlit permite realizar evaluaciones en tiempo real y explo
 
 * **Lenguaje:** Python
 * **Análisis y ML:** Pandas, NumPy, Scikit-Learn, XGBoost, Joblib
-* **Visualización:** Plotly / Matplotlib / Seaborn
+* **Visualización:** Plotly, Matplotlib, Seaborn
 * **Frontend:** Streamlit
 * **Despliegue & MLOps:** Docker, Docker Hub, Streamlit Cloud
 
