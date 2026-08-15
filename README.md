@@ -28,6 +28,7 @@ La aplicación en Streamlit permite realizar evaluaciones en tiempo real y explo
 <p align="center">
   <img src="media/demo.gif" alt="Demostración de la aplicación" width="85%"/>
 </p>
+
 ---
 
 ## 3. Tecnologías Utilizadas
