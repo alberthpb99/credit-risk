@@ -46,6 +46,9 @@ La aplicación en Streamlit permite realizar evaluaciones en tiempo real y explo
 ```text
 credit-risk/
 │
+├── .github/workflows/
+│   └── keep_alive.yml         # Workflow para mantener activa la app en Streamlit Cloud
+│
 ├── data/
 │   ├── raw.csv                # Datos crudos 
 │   └── processed.csv          # Datos limpios (generados por el archivo cleaning.py)
